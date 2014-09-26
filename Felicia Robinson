@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Felicia Robinson | Assignment 1</title>
+  <link rel="stylesheet" href="styles/normalize.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="styles/main.css" type="text/css" media="screen" />
+</head>
+<body>
+  <div id="container">
+    <header>
+      <h1>HEADER</h1>
+      <nav>
+        <ul>
+          <li><a href="#">home</a></li>
+          <li><a href="#">about</a></li>
+          <li><a href="#">work</a></li>
+          <li><a href="#contact">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <footr>Copyright 2014 - Felicia Robinson</footer>
+  </div> <!-- /container-->
+</body>
+</html>
